@@ -8,7 +8,7 @@ This project demonstrates core Data Engineering concepts including **Containeriz
 
 ## 🏗️ Architecture & Tech Stack
 
-![MarketPulse Architecture](https://raw.githubusercontent.com/IbrahimCheema-DE/MarketPulse-Data-Pipeline/main/architecture_diagram.png)
+![MarketPulse Architecture](architecture_diagram.png)
 
 *   **Data Source (API):** Python (`yfinance` library)
 *   **Orchestration:** Apache Airflow (Running on Docker)
