@@ -1,0 +1,15 @@
+.env
+__pycache__/
+*.pyc
+marketpulse_env/
+.env
+__pycache__/
+*.pyc
+*.pyo
+marketpulse_env/
+*.csv
+*.parquet
+.vscode/
+*.log
+airflow/logs/
+**/logs/
